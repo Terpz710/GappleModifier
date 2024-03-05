@@ -1,0 +1,6 @@
+name: GappleModifier
+version: 1.0.0
+author: Terpz710
+api: 5.0.0
+main: Terpz710\GappleModifier\Loader
+description: Modify the Golden Apple/Enchanted Golden Apple effects.
